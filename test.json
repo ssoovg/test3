@@ -1,0 +1,20 @@
+[
+
+{
+    "id": 1,
+    "name": "Latte",
+    "caffeineContent": "78mg"
+},
+{
+    "id": 2,
+    "name": "Americano",
+    "caffeineContent": "90mg"
+},
+
+{
+    "id": 3,
+    "name": "Flat white",
+    "caffeineContent": "110mg"
+}
+
+]
